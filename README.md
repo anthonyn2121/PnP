@@ -15,7 +15,7 @@ So ETH students: Do Not Copy! :)
  - Lesson 2: Image Formation pt. 1
     * Homework: Augmented Wire Frame Cube **Not included** 
  - Lesson 3: Image Formation pt. 2 
-    * Homework: Perspective-n-Point Problem 
+    * Homework: [Perspective-n-Point Problem](https://github.com/anthonyn2121/vision_algorithms/tree/master/Homework%203) 
  - Lesson 4: Filtering 
     * Homework: No Homework 
  - Lesson 5: Feature Detection 
