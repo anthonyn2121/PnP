@@ -19,4 +19,4 @@ So ETH students: Do Not Copy! :)
  - Lesson 4: Filtering 
     * Homework: No Homework 
  - Lesson 5: Feature Detection 
-    * Homework: Harris Corner Detection and Keypoint Tracking 
+    * Homework: [Corner Detection and Keypoint Tracking](https://github.com/anthonyn2121/vision_algorithms/tree/master/Homework%204) 
