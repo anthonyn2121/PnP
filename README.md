@@ -1,5 +1,5 @@
 # Vision Algorithm for Mobile Robotics 
-A course taught by Professor Davide Scaramuzza (fun fact: he's a Penn alumni) at ETH Zurich. Online lecture notes and homeworks are available through the Robot Perception Group website. 
+A course taught by Professor Davide Scaramuzza (fun fact: he also went to Penn! Where I'm studying my masters) at ETH Zurich. Online lecture notes and homeworks are available through the Robot Perception Group website. 
 
 ### The goal of the course 
 For a robot to be autonomous, it has to perceive and understand the world around it. This course introduces you to the key computer vision algorithms used in mobile robotics, such as feature extraction, structure from motion, multiple view geometry, dense reconstruction, tracking, image retrieval, event-based vision, and visual-inertial odometry and Simultaneous Localization And Mapping (SLAM)(the algorithms behind Apple ARKit, Google Visual Positioning Service, Microsoft Hololens, Magic Leap, Oculus Quest and Oculus Insight, and the Mars Curiosity rover). Basic knowledge of algebra, geomertry, and matrix calculus are required.
